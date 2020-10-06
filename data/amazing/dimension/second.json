@@ -1,9 +1,12 @@
 {
+"type":"minecraft:overworld",
+"generator":{
 "type":"minecraft:noise",
 "settings":"worldgen/noise_settings",
 "biome_source":{
 "type":"vanilla_layered",
 "large_biomes":false,
 "legacy_biome_init_layer":false
+}
 }
 }
